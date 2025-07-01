@@ -1,0 +1,5 @@
+ngrok config add-authtoken 2RToRp1a04r2y1Js2Gw70cfIzol_2WFMKacr2nnK8iupA87BD
+
+java -Xmx8G -Xms4G -jar server.jar --nogui
+
+ngrok tcp --region eu 25565
