@@ -7,6 +7,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-07-06 14:58:10 +0000",
+      "minecraft:sunflower_plains": "2025-07-06 15:00:07 +0000",
       "minecraft:birch_forest": "2025-07-01 16:41:03 +0000",
       "minecraft:windswept_hills": "2025-07-01 16:43:43 +0000",
       "minecraft:beach": "2025-07-01 05:16:14 +0000",
@@ -17,6 +19,7 @@
       "minecraft:ocean": "2025-07-02 15:35:08 +0000",
       "minecraft:windswept_savanna": "2025-07-01 16:40:23 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-01 16:40:24 +0000",
+      "minecraft:savanna": "2025-07-06 14:58:57 +0000",
       "minecraft:plains": "2025-07-01 05:11:37 +0000"
     },
     "done": false
@@ -1971,7 +1974,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-07-02 15:50:17 +0000"
+      "minecraft:crimson_forest": "2025-07-02 15:50:17 +0000",
+      "minecraft:nether_wastes": "2025-07-06 15:32:08 +0000"
     },
     "done": false
   },
@@ -2026,6 +2030,54 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-07-02 15:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-07-06 15:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-06 15:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-06 14:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-07-06 15:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-06 15:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-06 15:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-06 15:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-06 14:50:58 +0000"
     },
     "done": true
   },

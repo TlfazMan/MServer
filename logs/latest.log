@@ -1,143 +1,150 @@
-[13:34:59] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.14
-[13:35:00] [main/INFO]: Loading 4 mods:
+[14:43:27] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.14
+[14:43:28] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.14
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.20.1
-[13:35:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MServer/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[13:35:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:35:19] [main/INFO]: Loaded 7 recipes
-[13:35:19] [main/INFO]: Loaded 1271 advancements
-[13:35:20] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[13:35:20] [Server thread/INFO]: Loading properties
-[13:35:20] [Server thread/INFO]: Default game type: SURVIVAL
-[13:35:20] [Server thread/INFO]: Generating keypair
-[13:35:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:35:21] [Server thread/INFO]: Using epoll channel type
-[13:35:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:35:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:35:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:35:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:35:21] [Server thread/INFO]: Preparing level "world"
-[13:35:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:35:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:35:45] [Server thread/INFO]: Time elapsed: 11260 ms
-[13:35:45] [Server thread/INFO]: Done (23.670s)! For help, type "help"
-[13:37:16] [Server thread/INFO]: Tlfaz_Man[/[0:0:0:0:0:0:0:1%0]:55612] logged in with entity id 307 at (135.6675120116467, 62.9375, -156.4194851345069)
-[13:37:16] [Server thread/INFO]: Tlfaz_Man joined the game
-[13:47:50] [Server thread/INFO]: youssef_1bas[/[0:0:0:0:0:0:0:1%0]:55906] logged in with entity id 3731 at (138.77378064787052, 62.9375, -156.8392660739188)
-[13:47:50] [Server thread/INFO]: youssef_1bas joined the game
-[13:48:20] [Server thread/INFO]: youssef_1bas lost connection: Timed out
-[13:48:20] [Server thread/INFO]: youssef_1bas left the game
-[13:48:20] [Server thread/WARN]: handleDisconnection() called twice
-[13:48:55] [Server thread/INFO]: youssef_1bas[/[0:0:0:0:0:0:0:1%0]:45208] logged in with entity id 4061 at (138.77378064787052, 62.9375, -156.8392660739188)
-[13:48:55] [Server thread/INFO]: youssef_1bas joined the game
-[13:52:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=39, y=64, z=-157} class_2338{x=38, y=62, z=-156}
-[13:54:04] [Server thread/INFO]: youssef_1bas lost connection: You logged in from another location
-[13:54:04] [Server thread/INFO]: youssef_1bas left the game
-[13:54:04] [Server thread/WARN]: handleDisconnection() called twice
-[13:54:04] [Server thread/INFO]: youssef_1bas[/[0:0:0:0:0:0:0:1%0]:46910] logged in with entity id 5557 at (48.4285267071059, 65.0, -135.40182668588784)
-[13:54:04] [Server thread/INFO]: youssef_1bas joined the game
-[13:54:17] [Server thread/INFO]: youssef_1bas lost connection: Disconnected
-[13:54:17] [Server thread/INFO]: youssef_1bas left the game
-[13:54:23] [Server thread/INFO]: youssef_1bas[/[0:0:0:0:0:0:0:1%0]:57184] logged in with entity id 5697 at (41.73413621870301, 64.0, -139.87474004086275)
-[13:54:23] [Server thread/INFO]: youssef_1bas joined the game
-[13:57:15] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> litematica
-[13:57:21] [Server thread/INFO]: youssef_1bas lost connection: Disconnected
-[13:57:21] [Server thread/INFO]: youssef_1bas left the game
-[14:15:30] [Server thread/INFO]: Tlfaz_Man was doomed to fall by Skeleton
-[14:21:17] [Server thread/INFO]: Tlfaz_Man has made the advancement [A Seedy Place]
-[14:22:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=122, y=71, z=-198} class_2338{x=121, y=69, z=-198}
-[14:35:13] [Server thread/INFO]: Tlfaz_Man fell from a high place
-[14:47:30] [Server thread/INFO]: youssef_1bas[/[0:0:0:0:0:0:0:1%0]:41384] logged in with entity id 19349 at (116.84774310829296, 68.0, -152.0113938429757)
-[14:47:30] [Server thread/INFO]: youssef_1bas joined the game
-[14:50:23] [Server thread/INFO]: youssef_1bas was slain by Tlfaz_Man
-[14:55:55] [Server thread/INFO]: Villager class_1646['Villager'/254, l='ServerLevel[world]', x=52.70, y=65.00, z=-150.76] died, message: 'Villager was slain by youssef_1bas'
-[15:00:26] [Server thread/INFO]: Tlfaz_Man lost connection: Disconnected
-[15:00:26] [Server thread/INFO]: Tlfaz_Man left the game
-[15:00:30] [Server thread/INFO]: Tlfaz_Man[/[0:0:0:0:0:0:0:1%0]:37064] logged in with entity id 23945 at (-45.69999998807907, 68.0, -5.919931934593505)
-[15:00:30] [Server thread/INFO]: Tlfaz_Man joined the game
-[15:01:28] [Server thread/INFO]: youssef_1bas has made the advancement [We Need to Go Deeper]
-[15:01:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4597ms or 91 ticks behind
-[15:03:05] [Server thread/INFO]: Tlfaz_Man has made the advancement [The Parrots and the Bats]
-[15:04:14] [Server thread/INFO]: youssef_1bas tried to swim in lava
-[15:06:16] [Server thread/INFO]: youssef_1bas has made the advancement [A Seedy Place]
-[15:10:18] [Server thread/INFO]: youssef_1bas was slain by Cave Spider
-[15:14:18] [Server thread/WARN]: youssef_1bas moved too quickly! 3.605588351127235,-0.16779664663325633,9.593045980701177
-[15:15:35] [Server thread/INFO]: youssef_1bas tried to swim in lava
-[15:16:43] [Server thread/INFO]: youssef_1bas lost connection: You logged in from another location
-[15:16:43] [Server thread/INFO]: youssef_1bas left the game
-[15:16:43] [Server thread/INFO]: youssef_1bas[/[0:0:0:0:0:0:0:1%0]:35492] logged in with entity id 31082 at (249.69999998807907, 52.0, -128.51423067907734)
-[15:16:43] [Server thread/INFO]: youssef_1bas joined the game
-[15:16:47] [Server thread/INFO]: youssef_1bas lost connection: Disconnected
-[15:16:47] [Server thread/INFO]: youssef_1bas left the game
-[15:16:50] [Server thread/INFO]: youssef_1bas[/[0:0:0:0:0:0:0:1%0]:60658] logged in with entity id 31116 at (249.69999998807907, 52.0, -128.51423067907734)
-[15:16:50] [Server thread/INFO]: youssef_1bas joined the game
-[15:28:48] [Server thread/INFO]: Tlfaz_Man drowned
-[15:28:53] [Server thread/INFO]: Tlfaz_Man lost connection: Disconnected
-[15:28:53] [Server thread/INFO]: Tlfaz_Man left the game
-[15:30:13] [Server thread/INFO]: youssef_1bas tried to swim in lava
-[15:30:25] [Server thread/INFO]: Tlfaz_Man[/[0:0:0:0:0:0:0:1%0]:53156] logged in with entity id 39058 at (-640.3478203146605, 47.89474326010635, 211.32941076980842)
-[15:30:25] [Server thread/INFO]: Tlfaz_Man joined the game
-[15:30:44] [Server thread/INFO]: Tlfaz_Man lost connection: Disconnected
-[15:30:44] [Server thread/INFO]: Tlfaz_Man left the game
-[15:31:10] [Server thread/INFO]: youssef_1bas has made the advancement [Cover Me with Diamonds]
-[15:31:27] [Server thread/INFO]: Tlfaz_Man[/[0:0:0:0:0:0:0:1%0]:39252] logged in with entity id 39329 at (-3.833673701245907, 62.0, -55.64599897935075)
-[15:31:27] [Server thread/INFO]: Tlfaz_Man joined the game
-[15:38:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-335, y=64, z=-6} class_2338{x=-335, y=62, z=-6}
-[15:39:33] [Server thread/WARN]: Boat (vehicle of Tlfaz_Man) moved wrongly! 0.27902532674323766
-[15:39:33] [Server thread/WARN]: Boat (vehicle of Tlfaz_Man) moved wrongly! 0.3486991657646854
-[15:42:03] [Server thread/INFO]: Tlfaz_Man drowned
-[15:45:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=71, y=64, z=-124} class_2338{x=71, y=64, z=-125}
-[15:47:46] [Server thread/INFO]: youssef_1bas fell from a high place
-[15:49:01] [Server thread/INFO]: Tlfaz_Man has made the advancement [Cover Me with Diamonds]
-[15:50:16] [Server thread/INFO]: Tlfaz_Man has made the advancement [We Need to Go Deeper]
-[15:50:57] [Server thread/INFO]: Tlfaz_Man tried to swim in lava
-[15:51:10] [Server thread/INFO]: Tlfaz_Man has made the advancement [Enchanter]
-[15:52:32] [Server thread/INFO]: youssef_1bas burned to death
-[15:53:55] [Server thread/INFO]: Tlfaz_Man tried to swim in lava
-[15:55:57] [Server thread/INFO]: youssef_1bas fell from a high place
-[15:57:28] [Server thread/INFO]: Tlfaz_Man lost connection: Disconnected
-[15:57:28] [Server thread/INFO]: Tlfaz_Man left the game
-[15:57:29] [Server thread/INFO]: Tlfaz_Man[/[0:0:0:0:0:0:0:1%0]:42838] logged in with entity id 51915 at (-8.53315471321949, 66.0, -15.773175628084793)
-[15:57:29] [Server thread/INFO]: Tlfaz_Man joined the game
-[15:57:40] [Server thread/INFO]: Tlfaz_Man lost connection: Disconnected
-[15:57:40] [Server thread/INFO]: Tlfaz_Man left the game
-[16:00:10] [Server thread/INFO]: youssef_1bas fell from a high place
-[16:04:01] [Server thread/INFO]: Tlfaz_Man[/[0:0:0:0:0:0:0:1%0]:44310] logged in with entity id 53566 at (-13.203025196316068, 67.0, -12.900059481274036)
-[16:04:01] [Server thread/INFO]: Tlfaz_Man joined the game
-[16:04:03] [Server thread/INFO]: youssef_1bas tried to swim in lava
-[16:04:18] [Server thread/INFO]: Tlfaz_Man lost connection: Disconnected
-[16:04:18] [Server thread/INFO]: Tlfaz_Man left the game
-[16:05:12] [Server thread/INFO]: Stopping the server
-[16:05:12] [Server thread/INFO]: Stopping server
-[16:05:12] [Server thread/INFO]: Saving players
-[16:05:12] [Server thread/INFO]: Saving worlds
-[16:05:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:05:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:05:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:05:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:05:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:05:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:05:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:43:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/MServer/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[14:43:41] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:43:45] [main/INFO]: Loaded 7 recipes
+[14:43:45] [main/INFO]: Loaded 1271 advancements
+[14:43:46] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[14:43:46] [Server thread/INFO]: Loading properties
+[14:43:46] [Server thread/INFO]: Default game type: SURVIVAL
+[14:43:46] [Server thread/INFO]: Generating keypair
+[14:43:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:43:46] [Server thread/INFO]: Using epoll channel type
+[14:43:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:43:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:43:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:43:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:43:46] [Server thread/INFO]: Preparing level "world"
+[14:43:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:44:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:44:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:44:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:44:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:44:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:44:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:44:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:44:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:44:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:44:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:44:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:44:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:44:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:44:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:44:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:44:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:44:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:44:05] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[14:44:05] [Worker-Main-1/INFO]: Preparing spawn area: 3%
+[14:44:06] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[14:44:06] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[14:44:07] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[14:44:08] [Worker-Main-1/INFO]: Preparing spawn area: 13%
+[14:44:08] [Server thread/INFO]: Time elapsed: 11847 ms
+[14:44:08] [Server thread/INFO]: Done (21.818s)! For help, type "help"
+[14:44:17] [Server thread/INFO]: youssef_1bas[/[0:0:0:0:0:0:0:1%0]:60868] logged in with entity id 313 at (52.29071689683205, 64.79673560066871, -97.30049624738729)
+[14:44:17] [Server thread/INFO]: youssef_1bas joined the game
+[14:44:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
+[14:46:47] [Server thread/INFO]: Tlfaz_Man[/[0:0:0:0:0:0:0:1%0]:52974] logged in with entity id 707 at (-0.12729025850961959, 55.0, -20.738126277797193)
+[14:46:47] [Server thread/INFO]: Tlfaz_Man joined the game
+[14:46:57] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> can you call ??
+[14:47:05] [Server thread/INFO]: [Not Secure] <youssef_1bas> nah
+[14:47:08] [Server thread/INFO]: [Not Secure] <youssef_1bas> not now
+[14:47:12] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> k
+[14:47:26] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> r u in nether
+[14:47:29] [Server thread/INFO]: [Not Secure] <youssef_1bas> nah
+[14:47:36] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> cuz i am in the nether don't know why
+[14:47:49] [Server thread/INFO]: Tlfaz_Man was slain by Piglin
+[14:47:56] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> i will comeback
+[14:48:01] [Server thread/INFO]: [Not Secure] <youssef_1bas> k
+[14:48:31] [Server thread/INFO]: [Not Secure] <youssef_1bas> what
+[14:48:37] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> nothin
+[14:48:39] [Server thread/INFO]: [Not Secure] <youssef_1bas> wait
+[14:48:42] [Server thread/INFO]: [Not Secure] <youssef_1bas> waitttt
+[14:48:48] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> k
+[14:48:51] [Server thread/INFO]: [Not Secure] <youssef_1bas> stop moving
+[14:52:04] [Server thread/INFO]: [Not Secure] <youssef_1bas> I will go nether
+[14:52:07] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> k
+[14:53:04] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> get me some bones if you found
+[14:53:09] [Server thread/INFO]: [Not Secure] <youssef_1bas> k
+[14:59:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4377ms or 87 ticks behind
+[14:59:06] [Server thread/WARN]: Tlfaz_Man moved too quickly! -5.892147326645045,0.8338907390617862,8.220253128048643
+[15:00:51] [Server thread/INFO]: youssef_1bas tried to swim in lava
+[15:01:10] [Server thread/INFO]: Tlfaz_Man tried to swim in lava
+[15:09:04] [Server thread/INFO]: Tlfaz_Man has made the advancement [What a Deal!]
+[15:13:12] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=12, y=57, z=-71} class_2338{x=13, y=58, z=-72}
+[15:13:49] [Server thread/INFO]: Tlfaz_Man was slain by Zombie
+[15:15:56] [Server thread/INFO]: youssef_1bas burned to death
+[15:16:06] [Server thread/INFO]: [Not Secure] <youssef_1bas> I found it before I dieeeeeeeeeee
+[15:16:43] [Server thread/INFO]: [Not Secure] <youssef_1bas> allhamdulilah I have pointed it
+[15:17:12] [Server thread/INFO]: Tlfaz_Man has made the advancement [Take Aim]
+[15:17:24] [Server thread/INFO]: Tlfaz_Man was blown up by Creeper
+[15:17:29] [Server thread/INFO]: [Not Secure] <youssef_1bas> are u here
+[15:17:35] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> yea
+[15:19:43] [Server thread/INFO]: youssef_1bas has made the advancement [A Terrible Fortress]
+[15:19:50] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> ohh
+[15:19:57] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> did you find it
+[15:20:54] [Server thread/INFO]: youssef_1bas has made the advancement [Spooky Scary Skeleton]
+[15:21:03] [Server thread/INFO]: [Not Secure] <youssef_1bas> yay
+[15:21:44] [Server thread/INFO]: youssef_1bas has made the advancement [Into Fire]
+[15:27:08] [Server thread/INFO]: [Not Secure] <youssef_1bas> IS 9 blazes enough
+[15:27:21] [Server thread/INFO]: [Not Secure] <youssef_1bas> ??
+[15:27:32] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> The one blaze rod give us how much of the thing
+[15:27:52] [Server thread/INFO]: [Not Secure] <youssef_1bas> so thats enough
+[15:28:02] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> IDK
+[15:28:41] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> it is enough
+[15:28:46] [Server thread/INFO]: [Not Secure] <youssef_1bas> k
+[15:28:53] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> we aren't gonna go now
+[15:29:41] [Server thread/INFO]: youssef_1bas was burnt to a crisp whilst fighting Blaze
+[15:29:58] [Server thread/INFO]: [Not Secure] <youssef_1bas> I need food
+[15:30:06] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> cuz last time you got bored of the server cuz you said we have nothing to do
+[15:30:10] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> get food
+[15:30:18] [Server thread/INFO]: [Not Secure] <youssef_1bas> do u have?
+[15:30:22] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> nope
+[15:30:35] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> i am in nether
+[15:31:02] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> did you find any food
+[15:31:04] [Server thread/INFO]: [Not Secure] <youssef_1bas> nah
+[15:31:12] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> i meant bones
+[15:31:15] [Server thread/INFO]: [Not Secure] <youssef_1bas> nah
+[15:32:53] [Server thread/INFO]: Tlfaz_Man has made the advancement [A Terrible Fortress]
+[15:32:55] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> oh
+[15:34:13] [Server thread/INFO]: Tlfaz_Man fell from a high place
+[15:34:48] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> Can you call
+[15:35:28] [Server thread/INFO]: [Not Secure] <youssef_1bas> wait
+[15:35:35] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> i got bored
+[15:35:39] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> a little
+[15:35:43] [Server thread/INFO]: youssef_1bas tried to swim in lava
+[15:36:33] [Server thread/INFO]: Tlfaz_Man was shot by Skeleton
+[15:36:46] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> did u get bored
+[15:36:53] [Server thread/INFO]: [Not Secure] <youssef_1bas> yea
+[15:37:29] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> like we need a lot of wheat to make villagers breed,we have to wait for them to grow up and get enchants
+[15:37:43] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> and wait for the wheat too
+[15:37:50] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> cuz we don't have bonemeal
+[15:38:36] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> will you close and when you are able to call find out what are we gonna play ??
+[15:39:13] [Server thread/INFO]: [Not Secure] <youssef_1bas> k
+[15:39:21] [Server thread/INFO]: [Not Secure] <Tlfaz_Man> K I will leave
+[15:39:26] [Server thread/INFO]: Tlfaz_Man lost connection: Disconnected
+[15:39:26] [Server thread/INFO]: Tlfaz_Man left the game
+[15:41:05] [Server thread/INFO]: No player was found
+[15:41:22] [Server thread/INFO]: [Not Secure] [Server] will you play in the server
+[15:42:30] [Server thread/INFO]: [Not Secure] [Server] ??
+[15:42:36] [Server thread/INFO]: [Not Secure] <youssef_1bas> wtf
+[15:42:51] [Server thread/INFO]: [Not Secure] <youssef_1bas> THE sERVER???
+[15:43:13] [Server thread/INFO]: [Not Secure] [Server] I just opened the terminal will you stay in the server
+[15:43:59] [Server thread/INFO]: [Not Secure] <youssef_1bas> I just want my iron farm to work
+[15:44:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:44:20] [Server thread/INFO]: it was working ??<--[HERE]
+[15:44:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:44:31] [Server thread/INFO]: oh you mean you need to get some iron<--[HERE]
+[15:44:49] [Server thread/INFO]: [Not Secure] [Server] it was working ??
+[15:45:06] [Server thread/INFO]: [Not Secure] <youssef_1bas> when?
+[15:45:17] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:45:17] [Server thread/INFO]: idk but u got some iron<--[HERE]
+[15:45:26] [Server thread/INFO]: [Not Secure] [Server] idk but u got some iron
+[15:45:34] [Server thread/INFO]: [Not Secure] [Server] k stay in the server
+[15:45:44] [Server thread/INFO]: [Not Secure] <youssef_1bas> k
+[15:47:40] [Server thread/INFO]: youssef_1bas lost connection: Timed out
+[15:47:40] [Server thread/INFO]: youssef_1bas left the game
